@@ -3,14 +3,14 @@ body {
     height:100%;
 }
 .main-page {
-    height:500px;
+    height:550px;
     width: 30%;
     background-color:white;
     display:block;
     margin: auto;
-    margin-top: 130px;
-    margin-bottom: 127px;
-    box-shadow: 8px 8px 5px rgba(0, 0, 0, 0.200), -8px -8px 5px rgba(0, 0, 0, 0.200);
+    margin-top: 106px;
+    margin-bottom: 100px;
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.200), -8px -8px 15px rgba(0, 0, 0, 0.200);
 }
 .main-page div h2 {
     text-align: center;
